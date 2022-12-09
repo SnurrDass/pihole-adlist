@@ -1,138 +1,33 @@
-0.0.0.0 v16a.tiktokcdn.com
-0.0.0.0 p16-tiktokcdn-com.akamaized.net
-0.0.0.0 log.tiktokv.com
-0.0.0.0 ib.tiktokv.com
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 v16m.tiktokcdn.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 v19.tiktokcdn.com
-0.0.0.0 mon.musical.ly
-0.0.0.0 api2-16-h2.musical.ly
-0.0.0.0 api2.musical.ly
-0.0.0.0 log2.musical.ly
-0.0.0.0 api2-21-h2.musical.ly
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 api21-h2.tiktokv.com
-0.0.0.0 ib.tiktokv.com
-0.0.0.0 m.tiktok.com
-0.0.0.0 muscdn.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokcdn.com.c.worldfcdn.com
-0.0.0.0 (^|\.)muscdn\.com$
-0.0.0.0 (^|\.)musical\.ly$
-0.0.0.0 tiktok.com
-0.0.0.0 *.tiktok.com
-0.0.0.0 www.tiktok.com
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api21-h2.tiktokv.com
-0.0.0.0 ns-440.awsdns-55.com
-0.0.0.0 ns-722.awsdns-26.net
-0.0.0.0 ns-1475.awsdns-56.org
-0.0.0.0 ns-1574.awsdns-04.co.uk
-0.0.0.0 tiktokcdn-com.akamaized.net
-0.0.0.0 abtest-sg-tiktok.byteoversea.com
-0.0.0.0 abtest-va-tiktok.byteoversea.com
-0.0.0.0 gts.byteoversea.net
-0.0.0.0 isnssdk.com
-0.0.0.0 lf1-ttcdn-tos.pstatp.com
-0.0.0.0 muscdn.com
-0.0.0.0 musemuse.cn
-0.0.0.0 musical.ly
-0.0.0.0 p1-tt-ipv6.byteimg.com
-0.0.0.0 p1-tt.byteimg.com
-0.0.0.0 p16-ad-sg.ibyteimg.com
-0.0.0.0 p16-tiktok-sg.ibyteimg.com
-0.0.0.0 p16-tiktok-sign-va-h2.ibyteimg.com
-0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
-0.0.0.0 p16-tiktok-va.ibyteimg.com
-0.0.0.0 p16-va-tiktok.ibyteimg.com
-0.0.0.0 p26-tt.byteimg.com
-0.0.0.0 p3-tt-ipv6.byteimg.com
-0.0.0.0 p9-tt.byteimg.com
-0.0.0.0 pull-f3-hs.pstatp.com
-0.0.0.0 pull-f5-hs.flive.pstatp.com
-0.0.0.0 pull-f5-hs.pstatp.com
-0.0.0.0 pull-f5-mus.pstatp.com
-0.0.0.0 pull-flv-f1-hs.pstatp.com
-0.0.0.0 pull-flv-f6-hs.pstatp.com
-0.0.0.0 pull-flv-l1-hs.pstatp.com
-0.0.0.0 pull-flv-l1-mus.pstatp.com
-0.0.0.0 pull-flv-l6-hs.pstatp.com
-0.0.0.0 pull-hls-l1-mus.pstatp.com
-0.0.0.0 pull-l3-hs.pstatp.com
-0.0.0.0 pull-rtmp-f1-hs.pstatp.com
-0.0.0.0 pull-rtmp-f6-hs.pstatp.com
-0.0.0.0 pull-rtmp-l1-hs.pstatp.com
-0.0.0.0 pull-rtmp-l1-mus.pstatp.com
-0.0.0.0 pull-rtmp-l6-hs.pstatp.com
-0.0.0.0 quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
-0.0.0.0 quic-tiktok-proxy-i18n-gcpva.byteoversea.net
-0.0.0.0 sf1-ttcdn-tos.pstatp.com
-0.0.0.0 sf16-ttcdn-tos.ipstatp.com
-0.0.0.0 sf6-ttcdn-tos.pstatp.com
-0.0.0.0 sgsnssdk.com
-0.0.0.0 tiktok-lb-alisg.byteoversea.net
-0.0.0.0 tiktok-lb-maliva.byteoversea.net
-0.0.0.0 tiktok-platform-lb-alisg.byteoversea.net
-0.0.0.0 tiktok.com
-0.0.0.0 tiktok.com.bytewlb.akadns.net
-0.0.0.0 tiktokcdn-in.com
-0.0.0.0 tiktokcdn-us.com
-0.0.0.0 tiktokcdn-us.com.atomile.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokcdn.com.atomile.com
-0.0.0.0 tiktokcdn.com.c.bytetcdn.com
-0.0.0.0 tiktokcdn.com.c.worldfcdn.com
-0.0.0.0 tiktokcdn.com.rocket-cdn.com
-0.0.0.0 tiktokd.org
-0.0.0.0 tiktokv.com
-0.0.0.0 tiktokv.com.c.worldfcdn.com
-0.0.0.0 tiktokv.com.c.worldfcdn2.com
-0.0.0.0 tlivecdn.com
-0.0.0.0 ttlivecdn.com
-0.0.0.0 ttlivecdn.com.c.worldfcdn.com
-0.0.0.0 ttoversea.net
-0.0.0.0 ttoverseaus.net
-0.0.0.0 71.18.0.0/16
-0.0.0.0 101.45.0.0/16
-0.0.0.0 103.136.220.0/22
-0.0.0.0 118.26.132.0/24
-0.0.0.0 130.44.212.0/22
-0.0.0.0 1006686430.rsc.cdn77.org
-0.0.0.0 d1urvv9m2chg9l.cloudfront.net
-0.0.0.0 frontier-alisg-v3.bytewlb.akadns.net
-0.0.0.0 pull-flv-f1-hs.pstatp.com.wsdvs.com
-0.0.0.0 v16a.tiktokcdn.com
-0.0.0.0 p16-tiktokcdn-com.akamaized.net
-0.0.0.0 log.tiktokv.com
-0.0.0.0 ib.tiktokv.com
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 v16m.tiktokcdn.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 v19.tiktokcdn.com
-0.0.0.0 mon.musical.ly
-0.0.0.0 api2-16-h2.musical.ly
-0.0.0.0 api2.musical.ly
-0.0.0.0 log2.musical.ly
-0.0.0.0 api2-21-h2.musical.ly
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 api21-h2.tiktokv.com
-0.0.0.0 ib.tiktokv.com
-0.0.0.0 m.tiktok.com
-0.0.0.0 muscdn.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokcdn.com.c.worldfcdn.com
-0.0.0.0 (^|\.)muscdn\.com$
-0.0.0.0 (^|\.)musical\.ly$
-0.0.0.0 tiktok.com
-0.0.0.0 *.tiktok.com
-0.0.0.0 www.tiktok.com
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api21-h2.tiktokv.com
-0.0.0.0 ns-440.awsdns-55.com
-0.0.0.0 ns-722.awsdns-26.net
-0.0.0.0 ns-1475.awsdns-56.org
-0.0.0.0 ns-1574.awsdns-04.co.uk
-0.0.0.0 tiktokcdn-com.akamaized.net
+v16a.tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
+log.tiktokv.com
+ib.tiktokv.com
+api-h2.tiktokv.com
+v16m.tiktokcdn.com
+api.tiktokv.com
+v19.tiktokcdn.com
+mon.musical.ly
+api2-16-h2.musical.ly
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
+api-h2.tiktokv.com
+api.tiktokv.com
+api21-h2.tiktokv.com
+ib.tiktokv.com
+m.tiktok.com
+muscdn.com
+tiktokcdn.com
+tiktokcdn.com.c.worldfcdn.com
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+tiktok.com
+*.tiktok.com
+www.tiktok.com
+api-h2.tiktokv.com
+api21-h2.tiktokv.com
+ns-440.awsdns-55.com
+ns-722.awsdns-26.net
+ns-1475.awsdns-56.org
+ns-1574.awsdns-04.co.uk
+tiktokcdn-com.akamaized.net
