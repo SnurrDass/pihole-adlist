@@ -1,2 +1,2 @@
-tiktokcdn.com
-p16-tiktokcdn-com.akamaized.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
