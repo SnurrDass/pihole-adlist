@@ -9814,3 +9814,4 @@ webcast16-normal-useast5.us.tiktokv.com
 webcast19-normal-useast5.us.tiktokv.com
 mcs-va.tiktok.com.edgekey.net
 log16-normal-useast2a.tiktokcdn.com
+tiktokcdn.com
